@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these notebooks, please cite them as below."
+type: software
+title: "Companion notebooks for: Oracle-centric perspective on structured quantum search applied to lattice sieving"
+version: 1.0.0
+license: MIT
+abstract: >-
+  Three Jupyter notebooks (Qiskit) that reproduce the worked examples of the paper
+  "Oracle-centric perspective on structured quantum search applied to lattice sieving".
+  The same sieving predicate is realized as a global oracle (Grover search, including a run on
+  IBM quantum hardware) and as a local oracle (quantum walk on the Johnson graph J(6,2)),
+  and the two realizations are compared.
+keywords:
+  - quantum search
+  - quantum oracle
+  - Grover algorithm
+  - quantum walk
+  - lattice sieving
+  - Qiskit
+authors:
+  - family-names: Kavalaris
+    given-names: Stylianos P.
+    affiliation: "Department of Management Science & Technology, Democritus University of Thrace"
+  - family-names: Mardiris
+    given-names: Vassilios A.
+    affiliation: "Department of Management Science & Technology, Democritus University of Thrace"
+  - family-names: Karafyllidis
+    given-names: Ioannis G.
+    affiliation: "Department of Electrical and Computer Engineering, Democritus University of Thrace"
